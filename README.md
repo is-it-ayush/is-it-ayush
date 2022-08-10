@@ -26,9 +26,9 @@ Shhh...a super secret Project cooking up. More details will be revealed on my Tw
 
 - ### **✨ Project Dimensional Rift**
 **Timeline**: Apr 2022 - Apr 2022 <br/>
-**Link**: Domain Expired. However Code and Screenshots are Available & a localhost can be spun up. <br/>
+**Link**:[Imgur](https://imgur.com/a/v8OR6uk) <br/>
 **Stack**: Vanilla CSS, HTML & Powerful Library ThreeJS <br/>
-Dimensional Rift was a personal portfolio project. It challenged me to incorporate 3D in a web page by exposing me to langauges such as OpenGL and GLSL Shader Language. However, the domain expired. The project screenshot's can be found here. [Imgur](https://imgur.com/a/v8OR6uk) and on my [Twitter](https://twitter.com/is_it_ayush). The code can be be found [Dimensional Rift Repository]
+Dimensional Rift was a personal portfolio project. It challenged me to incorporate 3D in a web page by exposing me to langauges such as OpenGL and GLSL Shader Language. However, the domain expired & lack of version control was the reason that the code was lost. The project screenshot's can be found here. [Imgur](https://imgur.com/a/v8OR6uk) and on my [Twitter](https://twitter.com/is_it_ayush).
 
 - ### **💳 AAVE Protocol Project**
 **Timeline**: March 2022 - March 2022 <br/>
