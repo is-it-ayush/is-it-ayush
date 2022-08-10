@@ -12,6 +12,7 @@ I am Ayush. An 18 y/o Lucknow, India based fullstack web developer building hobb
 - ✒️ **Principles** - Material Design Guidelines, System Design Guidelines and RESTful Architecture.
 - ☁️ **Cloud Services** - AWS, Google Cloud, Azure.
 - 🤖 **Version Control** - Github
+- 📱 **Communication** - Discord, Slack, Microsoft Teams.
 - 🌐 **Languages** - Javascript, Python, Java, Solidity.
 - 📕 **Knowledge** - Inner workings of Computer Hardware, Touch on Networking and Data Structures and Algo's, Web3.
 - 🔧 **Extra Tools** - Adobe XD (Application Designing), Insomnia (API Testing)
