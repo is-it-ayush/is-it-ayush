@@ -1,6 +1,6 @@
 ## **Hi there** 👋🏽
 
-I am Ayush. An 18 y/o Lucknow, India based fullsack web developer building hobby projects and empowering companie's to get their software up and running. I believe presentation matter's and UI/UX is a as important as the security rules of your database. I love to be challenged & have a problem solving mindset. If you're looking to connect, feel free to email me on [ayush.keshav2004@gmail.com](mailto:ayush.keshav2004@gmail.com), drop by at my discord **wigglytuff#0345** or check me out on [Twitter](https://twitter.com/is_it_ayush) where I post about my project's.
+I am Ayush. An 18 y/o Lucknow, India based fullstack web developer building hobby projects and empowering companie's to get their software up and running. I believe presentation matter's and UI/UX is a as important as the security rules of your database. I love to be challenged & have a problem solving mindset. If you're looking to connect, feel free to email me on [ayush.keshav2004@gmail.com](mailto:ayush.keshav2004@gmail.com), drop by at my discord **wigglytuff#0345** or check me out on [Twitter](https://twitter.com/is_it_ayush) where I post about my project's.
 
 
 ## **Skills**
