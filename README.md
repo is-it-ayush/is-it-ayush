@@ -32,7 +32,7 @@ Dimensional Rift was a personal portfolio project. It challenged me to incorpora
 
 - ### **💳 AAVE Protocol Project**
 **Timeline**: March 2022 - March 2022 <br/>
-**Link**: [Opensea Testnet](https://testnets.opensea.io/collection/peepeeproject-n5qrnn3vaq) <br/>
+**Link**: Its a script. Fork and execute it. <br/>
 **Stack**: Solidity, Python, Brownie. <br/>
 This project is made to interact with AAVE in a programatic way. It does the following: Convert's ETH into WETH. Deposits WETH into AAVE. Borrow's DAI & Repay's DAI.
 It stretched my wings to interact with existing Web3 Protocols such as AAVE and DAO's through their interfaces. I learned a lot about Web3 with the help of [Patrick
