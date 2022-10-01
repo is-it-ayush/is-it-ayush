@@ -19,12 +19,13 @@ I am a fullstack developer skilled in MERN. I Can also quickly adapt with almost
 - 📕 **Knowledge** - Inner workings of Computer Hardware, Touch on Networking and Data Structures and Algo's, Web3.
 - 🔧 **Extra Tools** - Adobe XD (Application Designing), Insomnia (API Testing)
 
+
+## Projects
+Here is a list with all the project's I've worked with. Check Out: [Projects List]
+
 ## Stats
 
-[![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=is-it-ayush&show_icons=true&layout=compact&theme=dark)](https://github.com/is-it-ayush)
+[![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=is-it-ayush&show_icons=true&layout=compact&theme=dark)](https://github.com/is-it-ayush)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-it-ayush&layout=compact&theme=dark)](https://github.com/is-it-ayush)
 
 
-## Projects
-
-Here is a list with all the project's I've worked with. Check Out: [Projects List]
