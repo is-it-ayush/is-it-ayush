@@ -25,7 +25,7 @@ Here is a list with all the project's I've worked with. Check Out: [Projects Lis
 
 ## Stats
 
-[![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=is-it-ayush&show_icons=true&layout=compact&theme=dark)](https://github.com/is-it-ayush)  
+[![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=is-it-ayush&show_icons=true&count_private=true&layout=compact&theme=dark)](https://github.com/is-it-ayush)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=is-it-ayush&layout=compact&theme=dark)](https://github.com/is-it-ayush)
 
 
