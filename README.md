@@ -4,7 +4,7 @@
 Hi 👋🏽, Welcome to my Github. You'll find all about my project's here.
 
 ## About Me
-I am a fullstack developer skilled in MERN. I Can also quickly adapt with almost any new technology, framework or language. Feel free to email me on [ayush.keshav2004@gmail.com](mailto:ayush.keshav2004@gmail.com) or drop me a follow @ [Twitter](https://twitter.com/is_it_ayush).
+I am a fullstack and an Open Source developer. Feel free to email me on [ayush.keshav2004@gmail.com](mailto:ayush.keshav2004@gmail.com) or drop me a follow @ [Twitter](https://twitter.com/is_it_ayush).
 
 ## **Skills**
 - ⚡ **Frontend** - ReactJS, Javascript, Html, Css.
