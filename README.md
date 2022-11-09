@@ -1,6 +1,8 @@
+| [![Ayush Gupta](https://img.shields.io/badge/Ayush-Gupta-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=is-it-ayush&color=green) | ![Followers](https://img.shields.io/github/followers/is-it-ayush) | ![Twitter Follow](https://img.shields.io/twitter/follow/is_it_ayush?color=12&label=Follow%20Twitter&style=plastic) |
+--| --| --| --|
+
 [Projects List]: /PROJECTS.md
 
-## **Ayush Gupta** 
 Hi 👋🏽, Welcome to my Github. You'll find all about my project's here.
 
 ## About Me
