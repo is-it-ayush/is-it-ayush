@@ -8,19 +8,8 @@ Hi 👋🏽, Welcome to my Github. You'll find all about my project's here.
 ## About Me
 I am a fullstack and an Open Source developer. Feel free to email me on [ayush.keshav2004@gmail.com](mailto:ayush.keshav2004@gmail.com) or drop me a follow @ [Twitter](https://twitter.com/is_it_ayush).
 
-## **Skills**
-- ⚡ **Frontend** - ReactJS, Javascript, Html, Css.
-- 🌱 **Backend** - NodeJS, Express.
-- 💾 **Database** - MongoDB
-- ✨ **Framworks** - Django (.py backend), Tailwind, Material UI (React Frontend), Brownie (For Web3)
-- ✒️ **Principles** - Material Design Guidelines, System Design Guidelines and RESTful Architecture.
-- ☁️ **Cloud Services** - AWS, Google Cloud, Azure.
-- 🤖 **Version Control** - Github
-- 📱 **Communication** - Discord, Slack, Microsoft Teams.
-- 🌐 **Languages** - Javascript, Python, Java, Solidity.
-- 📕 **Knowledge** - Inner workings of Computer Hardware, Touch on Networking and Data Structures and Algo's, Web3.
-- 🔧 **Extra Tools** - Adobe XD (Application Designing), Insomnia (API Testing)
-
+## **Stack**
+⚡ Next.js, React.js, Typescript, Tailwind, Prisma (ORM), PostgreSQL, MongoDB (Mongoose), AWS, Google Cloud, Azure, System Design & Excalidraw. (Also Discord)
 
 ## Projects
 Here is a list with all the project's I've worked with. Check Out: [Projects List]
