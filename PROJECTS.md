@@ -1,8 +1,13 @@
 ## Projects
-Here's a list of all the project's that I have worked on. This was last updated on 1st, October 2022.
+Here's a list of all the project's that I have worked on. This was last updated on 25th, November 2022.
 
+- ### **💚 A Thing**
+**Link**: [Homepage](https://athing.vercel.app/) <br/>
+**Timeline**: October 2022 - Current <br/>
+**Stack**:  NextJS, Typescript, Prisma (PostgreSQL), Excalidraw, Tailwind. <br/>
+A Thing is a place where people can anonymously share about daily life in short notes. They can also write public/private journals and log their entries and rant about their daily lives. I wrote this Open Source project solely dedicated towards people struggling with mental health, towards people who have a lot to say but can't due to the fear of being judged. I personally use the platform and hence the need to develop it.
 - ### **🙊 Unreleased Project**
-**Timeline**: July 2022 - In Development <br/>
+**Timeline**: July 2022 - Stale Development (T.B.C) <br/>
 **Stack**:  MongoDB, Express, ReactJS, NodeJS, Tailwind. <br/>
 Shhh...a super secret Project cooking up. More details will be revealed on my Twitter. So make sure to stay tuned.
 - ### **✨ Project Dimensional Rift**
