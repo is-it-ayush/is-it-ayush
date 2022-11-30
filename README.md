@@ -12,6 +12,8 @@ I am a Fullstack, Open Source Developer. Feel free to email me on [ayush.keshav2
 ⚡ Next.js, React.js, Typescript, Tailwind, Prisma (ORM), PostgreSQL, MongoDB (Mongoose), AWS, Google Cloud, Azure, System Design & Excalidraw. (Also Discord)
 
 ## More
-Here is a list with all the project's I've worked with. Check Out: [Projects List]. Here's my Social's
-- [Holopin](https://holopin.io/@isitayush)
+Here's some more information about me.
+- [Projects List]
 - [Twitter](https://twitter.com/is_it_ayush)
+- [Holopin](https://holopin.io/@isitayush)
+- Discord: wigglytuff#0345
