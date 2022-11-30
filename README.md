@@ -3,16 +3,15 @@
 
 [Projects List]: /PROJECTS.md
 
-Hi 👋🏽, Welcome to my Github. You'll find all about my project's here.
+Hi 👋🏽, Welcome to my Github.
 
 ## About Me
 I am a Fullstack, Open Source Developer. Feel free to email me on [ayush.keshav2004@gmail.com](mailto:ayush.keshav2004@gmail.com) or drop me a follow @ [Twitter](https://twitter.com/is_it_ayush).
 
 ## **Stack**
-⚡ Next.js, React.js, Typescript, Tailwind, Prisma (ORM), PostgreSQL, MongoDB (Mongoose), AWS, Google Cloud, Azure, System Design & Excalidraw. (Also DiscHord)
+⚡ Next.js, React.js, Typescript, Tailwind, Prisma (ORM), PostgreSQL, MongoDB (Mongoose), AWS, Google Cloud, Azure, System Design & Excalidraw. (Also Discord)
 
-## Projects
-Here is a list with all the project's I've worked with. Check Out: [Projects List]
-
-## Badges
-[![@isitayush's Holopin board](https://holopin.io/api/user/board?user=isitayush)](https://holopin.io/@isitayush)
+## More
+Here is a list with all the project's I've worked with. Check Out: [Projects List]. Here's my Social's
+- [Holopin](https://holopin.io/@isitayush)
+- [Twitter](https://twitter.com/is_it_ayush)
