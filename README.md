@@ -1,5 +1,5 @@
 i like cats, typescript, nvim & rust. <3
 - currently @ rhizomer.com ✨
 - [projects.](https://isitayush.dev/projects) | [blog.](https://isitayush.dev/blog)
-- [ayush.keshav2004@gmail.com](mailto:ayush.keshav2004@gmail.com)
+- [work@isitayush.dev](mailto:work@isitayush.dev)
 - [@is_it_ayush](https://twitter.com/is_it_ayush)
